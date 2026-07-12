@@ -1,2 +1,3 @@
 
 
+![Fade Animation](fade.svg)
