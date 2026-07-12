@@ -1,4 +1,3 @@
-
 <svg xmlns="http://w3.org" width="500" height="60">
   <style>
     .fade-text {
